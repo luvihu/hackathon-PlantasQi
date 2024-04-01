@@ -1,0 +1,3 @@
+# Bienvenido a PlantasQi
+
+Es una aplicación web que combina la belleza y los beneficios de las plantas domésticas con los principios del Feng Shui para crear armonía y energía positiva en el hogar. Esta aplicación proporciona una guía integral para seleccionar, ubicar y cuidar plantas de interior de acuerdo con los principios del Feng Shui, con el objetivo de mejorar el bienestar y la calidad de vida de los usuarios.
